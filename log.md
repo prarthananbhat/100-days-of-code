@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: July 01, 2021 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: solved a problem on interview bit.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Taking time out is difficult, its the first day so excited about it, I hope this remains till day 100 :D
+**Link to work:** [min_steps_in_infinite_grid]https://github.com/prarthananbhat/Algorithms/blob/master/min_steps_infinite_grid.py
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
