@@ -6,7 +6,8 @@
 **Today's Progress**: solved a problem on interview bit.
 
 **Thoughts:** Taking time out is difficult, its the first day so excited about it, I hope this remains till day 100 :D
-**Link to work:** [min_steps_in_infinite_grid]https://github.com/prarthananbhat/Algorithms/blob/master/min_steps_infinite_grid.py
+
+**Link to work:** [min_steps_in_infinite_grid](https://github.com/prarthananbhat/Algorithms/blob/master/min_steps_infinite_grid.py)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
