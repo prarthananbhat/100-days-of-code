@@ -9,14 +9,13 @@
 
 **Link to work:** [min_steps_in_infinite_grid](https://github.com/prarthananbhat/Algorithms/blob/master/min_steps_infinite_grid.py)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: July 02, 2021 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Ftried to solve maximum triplet sum in interview bit
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Motivated myself with great difficulty today to code and also didnt find the solution, but did spend an hour to solve it
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
